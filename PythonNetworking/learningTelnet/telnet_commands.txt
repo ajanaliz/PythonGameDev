@@ -1,3 +1,0 @@
-tacacs-server host 1.2.3.4
-end
-show tacacs
